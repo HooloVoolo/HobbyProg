@@ -1,1 +1,1 @@
-# Results from Hobby programming in Matlab
+# Results from hobby programming in Matlab
